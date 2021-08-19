@@ -1,7 +1,7 @@
 # Image-Classifers
 Image Recognition Algos: 
 
-lenet
+Lenet
 
 VGG
 
