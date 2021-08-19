@@ -1,2 +1,6 @@
 # Image-Classifers
-Image Recognition Algos: lenet
+Image Recognition Algos: 
+lenet
+VGG
+Inception Net/ GoogleNet
+ResNet
